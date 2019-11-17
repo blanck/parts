@@ -14,7 +14,7 @@ add this line after the other from rows in **manage.py**
 
 ### Arrogant Bastard wireless gamepad EG-C3059W
 add this line after the other from rows in **manage.py**
-from parts.arrogant import JoystickController
+```from parts.arrogant import JoystickController```
 
 
 
